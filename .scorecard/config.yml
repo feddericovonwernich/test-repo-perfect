@@ -1,0 +1,14 @@
+service:
+  name: "Perfect Example Service"
+  team: "Platform Engineering"
+  description: "A perfectly configured test repository demonstrating all scorecard checks"
+  links:
+    - name: "Documentation"
+      url: "https://github.com/feddericovonwernich/test-repo-perfect"
+    - name: "API Reference"
+      url: "https://github.com/feddericovonwernich/test-repo-perfect/wiki"
+
+custom:
+  criticality: "high"
+  environment: "production"
+  owner: "platform-team"

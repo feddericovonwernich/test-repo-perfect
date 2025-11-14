@@ -1,30 +1,5 @@
 service:
-  name: "Perfect Example Service"
-  team: "Platform Engineering"
-  description: "A perfectly configured test repository demonstrating all scorecard checks"
-  links:
-    - name: "Documentation"
-      url: "https://github.com/feddericovonwernich/test-repo-perfect"
-      description: "Complete guide with examples and best practices"
-    - name: "API Reference"
-      url: "https://github.com/feddericovonwernich/test-repo-perfect/wiki"
-      description: "Technical documentation and API specifications"
-
-openapi:
-  spec_file: "openapi.yaml"
-  branch: "master"  # Branch where the OpenAPI spec is located
-  environments:
-    production:
-      base_url: "https://api.example.com/v1"
-      description: "Production environment"
-    staging:
-      base_url: "https://staging-api.example.com/v1"
-      description: "Staging environment for testing"
-    development:
-      base_url: "http://localhost:8000"
-      description: "Local development server"
-
-custom:
-  criticality: "high"
-  environment: "production"
-  owner: "platform-team"
+  name: "test-repo-perfect"
+  team: ""
+  description: ""
+  links: []

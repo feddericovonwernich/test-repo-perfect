@@ -1,5 +1,8 @@
-team: Platform Engineering
-description: Reference implementation demonstrating all scorecards best practices
+service:
+  name: "test-repo-perfect"
+  team: "Platform Engineering"
+  description: "Reference implementation demonstrating all scorecards best practices"
+  links: []
 
 openapi:
   spec_file: "openapi.yaml"

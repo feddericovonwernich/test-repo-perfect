@@ -3,3 +3,7 @@ service:
   team: ""
   description: ""
   links: []
+
+excluded_checks:
+  - check: "08-api-environments"
+    reason: "Uses different environment strategy"

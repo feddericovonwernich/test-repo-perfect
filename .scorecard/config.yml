@@ -7,12 +7,12 @@ service:
 openapi:
   spec_file: "openapi.yaml"
   environments:
-    production:
-      base_url: "https://api.example.com/v1"
-      description: "Production server"
-    staging:
-      base_url: "https://staging-api.example.com/v1"
-      description: "Staging server"
     development:
       base_url: "http://localhost:8000"
       description: "Development server"
+    staging:
+      base_url: "https://staging-api.example.com/v1"
+      description: "Staging server"
+    production:
+      base_url: "https://api.example.com/v1"
+      description: "Production server"

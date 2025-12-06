@@ -1,5 +1,8 @@
 # Test Repo Perfect
 
+![Score](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/feddericovonwernich/scorecards/main/catalog/badges/feddericovonwernich/test-repo-perfect/score.json)
+![Rank](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/feddericovonwernich/scorecards/main/catalog/badges/feddericovonwernich/test-repo-perfect/rank.json)
+
 This is a comprehensive test repository designed to achieve a Platinum rank (90-100%) in the scorecards quality measurement system.
 
 ## Purpose

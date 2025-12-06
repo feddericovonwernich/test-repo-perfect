@@ -1,5 +1,7 @@
 service:
   name: "test-repo-perfect"
-  team: ""
-  description: ""
-  links: []
+  team: "platform"
+  description: "Reference implementation demonstrating all scorecards best practices for achieving Platinum rank"
+  links:
+    - name: "Documentation"
+      url: "https://github.com/feddericovonwernich/test-repo-perfect#readme"
